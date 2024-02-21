@@ -5,12 +5,9 @@
 package jaisman;
 
 /**
- *
+ *my name is jaisman singh sidhu and this is my midterm partb
  * @author jaismansinghsidhu
  */
 public class jaisman {
-    /**my name is jaisman singh sidhu
-     * and this is my midterm partB
-     * /
     
 }
